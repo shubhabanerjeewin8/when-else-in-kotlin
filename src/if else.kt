@@ -1,6 +1,6 @@
 fun main (){
 
-    val x=3  //get a value of x which is not changeable
+    val x=2  //get a value of x which is not changeable, put here x value and chq
 
     when (x){
         1 -> println("X is 1")
